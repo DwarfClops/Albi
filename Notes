@@ -1,0 +1,19 @@
+======================== ANOTATIONS =============================================================
+- After making annotations you have to make neg and pos txt files
+- neg txt contains images with bad data
+- pos txt containts images with good data and the position of the data (x1,y1,x2,y2)
+- Super Anotate produces a json file with the photo data that you have selected
+- CIRCLES, DEGREES, RADIANS
+-- CIRCLES
+--- all points in the same plane that lie at an equal distance from a center point
+--- Area = πr^2
+-- DEGREES (ANGLES)
+--- 360 degrees in one Full Rotation
+--- Why 360 degrees?
+---- 360 can be divided EASILY into smaller portions
+--- part of a circle is called an arc
+-- RADIANS
+--- The angle made when the radius is wrapped round the circle, like degrees
+--- To go from degrees to radians: multiply by π, divide by 180
+--- To go from radians to degrees: multiply by 180, divide by π
+
