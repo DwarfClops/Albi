@@ -1,0 +1,5 @@
+PyAutoGUI~=0.9.52
+opencv-python~=4.5.1.48
+pynput~=1.7.3
+d3dshot~=0.1.5
+numpy~=1.20.1
